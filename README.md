@@ -47,12 +47,6 @@ Actuellement, je suis à la recherche d’un stage pour acquérir de l’expéri
 
 ---
 
-## 📊 Statistiques GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rulia914&layout=compact&theme=tokyonight)
-
----
-
 ## 📚 Projets sélectionnés
 
 ### **Application MVC procédurale**  
